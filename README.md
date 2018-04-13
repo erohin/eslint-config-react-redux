@@ -30,7 +30,7 @@ In your `.eslintrc` file:
 [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)    
 [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)     
 [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype)     
-[eslint-plugin-lodash-fp](https://github.com/jfmengels/eslint-plugin-lodash-fp)
+[eslint-plugin-lodash-fp](https://github.com/jfmengels/eslint-plugin-lodash-fp)      
 [eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments)     
 
 ## 🍻 Contributing
