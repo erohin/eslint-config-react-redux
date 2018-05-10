@@ -15,7 +15,6 @@ module.exports = {
     "plugin:react/recommended",
     "plugin:unicorn/recommended",
     "plugin:flowtype/recommended",
-    "plugin:lodash-fp/recommended",
     "plugin:eslint-comments/recommended"
   ],
   "plugins": [
@@ -27,7 +26,7 @@ module.exports = {
     "unicorn",
     "jsx-a11y",
     "flowtype",
-    "lodash-fp",
+    "redux-saga",
     "eslint-comments"
   ],
   "parserOptions": {
