@@ -41,7 +41,7 @@ module.exports = {
     "new-cap": 0,
     "no-console": 1,
     "func-style": [2, "declaration", { "allowArrowFunctions": true }],
-    "quote-props": [2, "as-needed", { "numbers": true }]
+    "quote-props": [2, "as-needed", { "numbers": true }],
     "comma-dangle": [2, "always-multiline"],
     "arrow-parens": [2, "always"],
     "padded-blocks": 0,
