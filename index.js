@@ -120,7 +120,7 @@ module.exports = {
     "fp/no-rest-parameters": 2,
     "fp/no-unused-expression": 0,
     "fp/no-mutating-methods": [2, {
-      "allowedObjects": ["_", "history", "router"]
+      "allowedObjects": ["R", "history", "router"]
     }],
 
     "unicorn/filename-case": 0,
