@@ -5,7 +5,7 @@
   "version": "1.0.4",
   "license": "MIT",
   "engines": {
-    "node": ">=9"
+    "node": ">=10"
   },
   "description": "The base ESLint config for React/Redux projects",
   "repository": {
@@ -13,21 +13,21 @@
     "url": "git+https://github.com/erohin/eslint-config-react-redux.git"
   },
   "dependencies": {
-    "babel-eslint": "8.2.3",
-    "eslint-config-airbnb": "16.1.0",
-    "eslint-plugin-eslint-comments": "2.0.2",
-    "eslint-plugin-flowtype": "2.46.3",
+    "babel-eslint": "9.0.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-plugin-eslint-comments": "3.0.1",
+    "eslint-plugin-flowtype": "2.50.0",
     "eslint-plugin-fp": "2.3.0",
-    "eslint-plugin-import": "2.11.0",
-    "eslint-plugin-jest": "21.15.1",
-    "eslint-plugin-jsx-a11y": "6.0.3",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-jest": "21.22.1",
+    "eslint-plugin-jsx-a11y": "6.1.1",
     "eslint-plugin-more": "0.3.2",
     "eslint-plugin-ramda": "2.5.1",
-    "eslint-plugin-react": "7.8.2",
-    "eslint-plugin-redux-saga": "0.8.0",
-    "eslint-plugin-unicorn": "4.0.3"
+    "eslint-plugin-react": "7.11.1",
+    "eslint-plugin-redux-saga": "0.9.0",
+    "eslint-plugin-unicorn": "6.0.1"
   },
   "peerDependencies": {
-    "eslint": ">=4"
+    "eslint": ">=5"
   }
 }
