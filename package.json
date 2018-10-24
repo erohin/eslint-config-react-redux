@@ -2,7 +2,7 @@
   "name": "eslint-config-react-redux",
   "main": "index.js",
   "author": "Evgeny Erohin",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "MIT",
   "engines": {
     "node": ">=10"
