@@ -5,7 +5,8 @@ module.exports = {
     "jest": true,
     "node": true,
     "browser": true,
-    "jest/globals": true
+    "jest/globals": true,
+    "cypress/globals": true
   },
   "extends": [
     "airbnb",
@@ -23,6 +24,7 @@ module.exports = {
     "jest",
     "react",
     "ramda",
+    "cypress",
     "unicorn",
     "jsx-a11y",
     "flowtype",
